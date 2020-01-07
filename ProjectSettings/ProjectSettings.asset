@@ -431,6 +431,7 @@ PlayerSettings:
   switchRatingsInt_9: 0
   switchRatingsInt_10: 0
   switchRatingsInt_11: 0
+  switchRatingsInt_12: 0
   switchLocalCommunicationIds_0: 
   switchLocalCommunicationIds_1: 
   switchLocalCommunicationIds_2: 
@@ -636,9 +637,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 8c36b415-60de-456f-bbb1-f57ec3bb0638
+  cloudProjectId: b8d070c9-095a-49bd-bfc2-48bf2857b23d
   framebufferDepthMemorylessMode: 0
-  projectName: Platformer2D
+  projectName: Platformer
   organizationId: oles-3430101
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
