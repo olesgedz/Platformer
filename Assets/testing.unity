@@ -261,6 +261,8 @@ MonoBehaviour:
   target: {fileID: 946851122}
   farBackground: {fileID: 270509996}
   midBackground: {fileID: 99542106}
+  minHieght: -1.5
+  maxHieght: 2.5
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
